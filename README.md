@@ -15,6 +15,9 @@ This project demonstrates my SQL skills using MySQL.
 - GROUP BY and HAVING
 - ORDER BY
 - Aggregate functions: SUM(), AVG(), COUNT(), MIN(), MAX()
+- Window functions
+- Stored procedures
+- Triggers and Events
 
 ## Tools Used
 - MySQL Workbench
