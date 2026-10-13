@@ -8,6 +8,7 @@ This project demonstrates my SQL skills using MySQL.
 - Practise SQL queries.
 - Filter and organize data.
 - Calculate totals, counts, and averages.
+- Create triggers for faster updates.
 - Analyze results using aggregate functions.
 
 ## Skills Demonstrated
